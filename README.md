@@ -1,5 +1,5 @@
 # NetCoreMvcDocker
-Este projeto desenvolvido em GoLang tem o intuito de fornecer uma aplicação template de projeto Net Core MVC.
+Este projeto desenvolvido em .Net 6 tem o intuito de fornecer uma aplicação template de projeto Net Core MVC.
 
 LIBRARIES
 -----------------
